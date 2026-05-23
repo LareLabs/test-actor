@@ -3,5 +3,5 @@
   "name": "test-actor",
   "version": "0.0",
   "buildTag": "latest",
-  "environmentVariables": []
+  "environmentVariables": {}
 }
