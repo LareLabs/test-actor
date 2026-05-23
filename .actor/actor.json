@@ -1,0 +1,6 @@
+{
+  "name": "test-actor",
+  "version": "0.0.1",
+  "buildTag": "latest",
+  "environmentVariables": []
+}

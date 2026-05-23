@@ -1,0 +1,16 @@
+{
+  "title": "Test Actor Input",
+  "type": "object",
+  "schemaVersion": 1,
+  "description": "Simple test input schema",
+  "properties": {
+    "message": {
+      "title": "Message",
+      "type": "string",
+      "description": "A test message",
+      "default": "Hello from test actor!",
+      "editor": "textarea"
+    }
+  },
+  "required": []
+}
